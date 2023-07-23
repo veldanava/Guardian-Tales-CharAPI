@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "guardian-tales-api",
+  "version": "1.0.0",
+  "description": "an rest api for guardian tales character",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "api"
+  ],
+  "author": "veldanava",
+  "license": "ISC"
+}
